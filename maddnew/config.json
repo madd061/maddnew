@@ -1,0 +1,96 @@
+{ 
+    "GuildID": "1044308006940200981",
+    "GuildName": "VENCİA",
+    "owners": ["879720373984313495","927969580498944010"],
+    "BotDurum": ["bakımda", "bakım molası"], 
+    "BotSesKanal": "1136993991653609569",
+    "realOwner": "879720373984313495",
+    "AltBaşlık": "V E N C İ A ",
+
+    "mongoUrl": "mongodb+srv://vencia:1967vencia@cluster0.5smzylh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+
+    "Welcome": {
+        "Active": true,
+        "Tokens": [
+          "MTM2NTM1MDA0MTUxODIxNTE5OA.GkkdxX.C4gEqlJKNmJmNVmClj2gNrNqLy97SAuHLBo3Cw",
+        "MTM2NTM1MDMwMzgwMDQ5MjE2NA.GoEcHG.DUG3gtQgWP3V_npJeVVcHgGkZxpUiIDPONBYdY",
+        "MTM2NTM1MDQ0MTgzMDg0MjUxMQ.Gm14RQ.cy4SLPqOy9ly7dQ2j-d5IA55lOk1c4JDrPU4kM",
+        "MTM2NTM1MjIwOTI0MzcwMTI3OA.GaRzEf.nSTIfhqUJkDBG_YkV3jDXQQAKXJ1gxqfnve_Cg",
+        "MTM2NTM1MjM5MjQwNDc2MjY3Ng.GCjc6S.2qwLDTkORT4ixzrBVkDFk9sFJrnRPxuKa88uWE"
+      
+        ],
+        "Channels": [
+           "1366136464521564220","1366136467704905859","1366136471865790495","1366136474675970069","1366136478710632551"
+        ]
+    },
+
+    "Main": {
+        "ModerationToken": "MTM2NTc3OTQ1NjUzODcwNTk2MA.GBHRQf.6C7l2SomsTCSejAtn3tpnoyXr9GEaHFhZBqkWM",
+        "RegisterToken": "MTM2NTM0NzE4NjQwNTE1MDc5Mg.G1cJH5.AI5g9Gd0XRIrT19vPQrxPxQZGU_OArtmXGig-w",
+        "StatsToken": "MTM2NTc3OTk5MDAyOTAwOTA0Ng.GVsVws.nmzDAe3SPpHVUIu4POZ03nbCNzuTJblz2LI3Dw",
+
+        "prefix": [
+            "."
+        ],
+
+        "BotClientID": "1365779456538705960",
+
+        "dmMessages": true,
+        "LevelSystem": true,
+  
+        "messageCount": 1,
+        "messageCoin": 0.2,
+        "voiceCount": 1,
+        "voiceCoin": 0.5,
+        "publicCoin": 2,
+        "inviteCount": 1,
+        "inviteCoin": 10,
+        "taggedCoin": 15,
+        "toplamsCoin": 4.5,
+        "yetkiCoin": 20,
+  
+        "banlimit": 5,
+        "jaillimit": 5,
+        "warnlimit": 5,
+        "chatmutelimit": 5,
+        "voicemutelimit": 5
+    },
+    "UrlGuardToken": "MMTM2NTM0ODAyODQ3NDQ2MjM2OQ.GkDFCo.RXlogtZhZljmR-dvbwwYGUBSXplmt6keQElIlo",
+
+    "Guard": {
+        "Token": {
+            "Guard_I": "MTM2NTM0ODAyODQ3NDQ2MjM2OQ.GkDFCo.RXlogtZhZljmR-dvbwwYGUBSXplmt6keQElIlo",
+            "Guard_II": "MTM2NTc3OTY1NTcyNjIwNzEwNw.GsE4am.BYvIf4AM3p7q-AUm2qGPG8pZueGdbaHprGZLHo",
+            "Guard_III": "MTM2NTM0OTA4MDQxNDQyNTE2OA.GoHPVg.0cZwjvCnvBrWGyrBXPv-EwD_o75qACeky4ap0Q",
+
+            "TaçHesapToken": "ODc5NzIwMzczOTg0MzEzNDk1.GDtq7M.x_pFNLE9nztmpNqpBQCnPTOmCLPWpSeUueA4RU",
+
+            "Dağıtıcı": [
+                "MTM2NTM0OTA4MDQxNDQyNTE2OA.GoHPVg.0cZwjvCnvBrWGyrBXPv-EwD_o75qACeky4ap0Q"
+            ]
+        },
+
+        "Limit": {
+            "Ban": 5,
+            "Kick": 5,
+            "RoleCreate": 5,
+            "ChannelCreate": 5,
+
+            "Reklam": 5,
+            "Etiket": 5,
+            "Satır": 5,
+            "Ekler": 5
+        },
+    
+        "Guard": {
+            "TaskDelay": 250,
+            "GiveRoleDelay": 500
+        },
+
+        "kufurEngel": false,
+        "spamEngel": false,
+        "capsEngel": false,
+        "reklamEngel": false
+
+    }
+}
